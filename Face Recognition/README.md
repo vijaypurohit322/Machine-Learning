@@ -4,3 +4,5 @@ You will be able to detect face from image or video.
        * please use python notebook file.  
        * and follow step by step procedure.
    
+------------------
+Thank you. :)
