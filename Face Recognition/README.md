@@ -7,5 +7,4 @@ You will be able to detect face from image or video.
 ------------------
 
 
-
 Thank you. :)
